@@ -6,9 +6,9 @@
 
 # == Copy this template below ==
 
-# Name:
+# Name:Rachael Osagie
 # Book/TV Show/Movie/Album/Poem that you are currently obsessed over:
-# Favourite Colour:
+# Favourite Colour: blue
 
 # == end of template
 
